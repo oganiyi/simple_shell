@@ -1,3 +1,1 @@
-0x16. C - Simple Shell
-Authors: CHIDINMA EZE & Toyibu Abidogun
-
+0x16. C - Simple Shell Authors: CHIDINMA EZE & Toyibu Abidogun
